@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "885811312202",
+    "firebase_url": "https://todotest-4a9ff.firebaseio.com",
+    "project_id": "todotest-4a9ff",
+    "storage_bucket": "todotest-4a9ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885811312202:android:0d2e4143ccee9831",
+        "android_client_info": {
+          "package_name": "com.example.morale.todotestandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885811312202-85nm9tsf68mp1s30e1403qhdb70qg0tp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "885811312202-85nm9tsf68mp1s30e1403qhdb70qg0tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjXSAyd-SUfRJnXCDAUNbxfmesQ56iZhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
